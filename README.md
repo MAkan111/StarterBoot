@@ -66,7 +66,7 @@ URI эндпоинта: http://localhost:8080/
 Статус: 200
 Заголовки запроса: {sec-fetch-mode=navigate, sec-fetch-site=none, accept-language=ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7, sec-fetch-user=?1....}
 Заголовки ответа: {Keep-Alive=timeout=60, Connection=keep-alive, Content-Length=37, Date=Thu, 30 May 2024 23:14:45 GMT, Content-Type=text/html;charset=UTF-8}
-Время выполнения запроса: 73 мс
+Время выполнения запроса: 32 мс
 
 =========================================
  ```
